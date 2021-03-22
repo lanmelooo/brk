@@ -1,0 +1,12 @@
+source 'http://rubygems.org'
+
+gem 'pry'
+gem 'capybara'
+gem 'cucumber'
+gem 'rspec'
+gem 'rubocop'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'syntax'
+gem 'webdrivers'
+gem 'httparty'

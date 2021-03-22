@@ -1,0 +1,6 @@
+## YAML Templatesss
+---
+## Scrpits para execução
+jenkins: --format json --out=relatorios/report.json --format pretty
+local: ENV='ENV' --format html --out=relatorios/report.html --format pretty
+default: --publish-quiet
